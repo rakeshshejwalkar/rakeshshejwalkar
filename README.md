@@ -16,7 +16,7 @@ Building Next-Gen Financial and Personal Wellness</h4>
 </p>
 
 <p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=hashirshoaeb&color=blue&style=flat-square" alt="hashirshoaeb profile views" />
+  <img align="center" src="https://komarev.com/ghpvc/?username=rakeshshejwalkar&color=blue&style=flat-square" alt="rakeshshejwalkar profile views" />
 </p>
 <br/>
 
