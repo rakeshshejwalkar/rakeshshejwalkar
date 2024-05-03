@@ -11,7 +11,7 @@
     <a href="https://twitter.com/rakesh-shejwalkar">X</a>
 </p>
 <p align="center">
-  <h4 align="center">Driven by Flutter | 
+  <h4 align="center">Driven by Curiosity | 
 Building Next-Gen Financial and Personal Wellness</h4>
 </p>
 
@@ -22,7 +22,7 @@ Building Next-Gen Financial and Personal Wellness</h4>
 
 I'm most passionate about friendly software design 📲, solid architecture 👷‍♀️, best practices 🧰, and documentation 📖.
 
-- 🔭 I’m currently working on **[QuranTalk App](https://www.qurantalk.app/)**.
+- 🔭 I’m currently working on **[Food E-Commerce](https://www.tasteindies.com/)**.
 - 🌱 I’m currently reading **Psychology of Money**.
 - 💬 Ask me about **Dart, Flutter, open source, git**.
 - 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
