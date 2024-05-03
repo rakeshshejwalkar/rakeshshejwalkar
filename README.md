@@ -25,7 +25,7 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
 - 🔭 I’m currently working on **[Food E-Commerce](https://www.tasteindies.com/)**.
 - 🌱 I’m currently reading **Psychology of Money**.
 - 💬 Ask me about **Dart, Flutter, open source, git**.
-- 📫 How to reach me: [@hashirshoaeb](https://twitter.com/hashirshoaeb)
+- 📫 How to reach me: [@rakeshshejwalkar](https://twitter.com/rakeshshejwalkar)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: A coder who doesn't like coffee.
 <!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
