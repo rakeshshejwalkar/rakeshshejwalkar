@@ -23,7 +23,7 @@ Building Next-Gen Financial and Personal Wellness Products</h4>
 I'm most passionate about personal finance products 📲, education products 👷‍♀️, food and e-commcerce 🧰, and personal wellness 📖.
 
 - 🔭 I’m currently working on **[Food E-Commerce](https://www.tasteindies.com/)**.
-- 🌱 I’m currently reading **Psychology of Money**.
+- 🌱 I’m currently reading **The Hard Things About Hard Things**.
 - 💬 Ask me about **Dart, Flutter, open source, git**.
 - 📫 How to reach me: [@rakeshshejwalkar](https://twitter.com/rakeshshejwalkar)
 - 😄 Pronouns: He/Him/His
