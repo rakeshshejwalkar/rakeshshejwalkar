@@ -12,7 +12,7 @@
 </p>
 <p align="center">
   <h4 align="center">Driven by Curiosity | 
-Building Next-Gen Financial and Personal Wellness</h4>
+Building Next-Gen Financial and Personal Wellness Products</h4>
 </p>
 
 <p align="center"> 
