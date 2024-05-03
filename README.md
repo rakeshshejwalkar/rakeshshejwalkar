@@ -1,14 +1,14 @@
 <p align="center">
-  <h3 align="center">Heya 👋, I'm Hashir</h3>
+  <h3 align="center">Heya 👋, I'm Rakesh</h3>
 </p>
 <p align="center">
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://rakeshshejwalkar.github.io">About Me</a>
     ·
-    <a href="mailto:hashirshoaeb@gmail.com">Email</a>
+    <a href="mailto:rakesh.kgp2003@gmail.com">Email</a>
     ·
-    <a href="https://linkedin.com/in/hashirshoaeb">LinkedIn</a>
+    <a href="https://linkedin.com/in/rakesh-shejwalkar">LinkedIn</a>
     ·
-    <a href="https://twitter.com/hashirshoaeb">X</a>
+    <a href="https://twitter.com/rakesh-shejwalkar">X</a>
 </p>
 <p align="center">
   <h4 align="center">Driven by Flutter | 
