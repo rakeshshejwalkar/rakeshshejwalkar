@@ -20,7 +20,7 @@ Building Next-Gen Financial and Personal Wellness</h4>
 </p>
 <br/>
 
-I'm most passionate about personal finance products 📲, eductaion products 👷‍♀️, food and e-commcerce 🧰, and personal wellness 📖.
+I'm most passionate about personal finance products 📲, education products 👷‍♀️, food and e-commcerce 🧰, and personal wellness 📖.
 
 - 🔭 I’m currently working on **[Food E-Commerce](https://www.tasteindies.com/)**.
 - 🌱 I’m currently reading **Psychology of Money**.
