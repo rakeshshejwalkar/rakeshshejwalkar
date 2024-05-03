@@ -65,7 +65,7 @@ I'm most passionate about friendly software design 📲, solid architecture 👷
 ### Let's connect
 
 
-Feel free to reach out to me on [X](https://twitter.com/hashirshoaeb) or [LinkedIn](https://www.linkedin.com/in/hashirshoaeb). I'm always open to collaborations and new opportunities.
+Feel free to reach out to me on [X](https://twitter.com/rakeshshejwalkar) or [LinkedIn](https://www.linkedin.com/in/rakesh-shejwalkar). I'm always open to collaborations and new opportunities.
 
 <!-- [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/hashirshoaeb?label=Follow%20me)](https://twitter.com/hashirshoaeb) -->
 <!-- [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hashirshoaeb)  -->
