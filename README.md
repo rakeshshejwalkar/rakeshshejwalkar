@@ -20,16 +20,18 @@ Building Next-Gen Financial and Personal Wellness Products</h4>
 </p>
 <br/>
 
-I'm most passionate about personal finance products 📲, education products 👷‍♀️, food and e-commcerce 🧰, and personal wellness 📖.
+ I have been a global market professional working between technology, operations, and business. One may refer my roles as that of a Produdct Manager to a Product Strategist to a Product Leaders. Beyond being a corporate 'Intraprenuer',  I'm most passionate about personal finance products (www.myfinscore.com) 📲. I believe in continued eductaion and evolution with ongoing learning (www.myfinscore.graphy.com/) 👷‍♀️. I have created food and e-commcerce business out of passion and family engagements (www.tasteindies.com) 🧰. Of late I am much driven towards holistic wellness (physical and mental) 📖. 
 
-- 🔭 I’m currently working on **[Food E-Commerce](https://www.tasteindies.com/)**.
+*** I love to bring out efficiencies in people and systems ***
+
+- 🔭 In my free time I have been working on **[Investment-Tech](https://www.myfinscore.com/)** and **[Food E-Commerce](https://www.tasteindies.com/)**.
 - 🌱 I’m currently reading **The Hard Things About Hard Things**.
-- 💬 Ask me about **Dart, Flutter, open source, git**.
+- 💬 Ask me about **Structured Financial Products, Investment Management (Personal Finance), Creating Food Services and Food FMCG (E-commerce) and Philosophy of life**.
 - 📫 How to reach me: [@rakeshshejwalkar](https://twitter.com/rakeshshejwalkar)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: A coder who doesn't like coffee.
+- ⚡ Fun fact: I am an "IITian who sold his 'Harley'" . My biking hobby was taken away post marriage, hence I am doing the rest of things as you see!
 <!-- - 🌱 I’m currently reading book **BUILDING MOBILE APPS AT SCALE** by Gergely Orosz. -->
-<!-- - 🤔 I’m looking for help with **UI/UX of [StarBook App](https://github.com/rakeshshejwalkar/star_book)**. -->
+<!-- - 🤔 I’m looking for help with **UI/UX of [Personal Finance App](https://myfinscore.com**. -->
 
 ### Projects
 #### Flutter & Dart 
