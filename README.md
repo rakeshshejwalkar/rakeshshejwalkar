@@ -20,7 +20,7 @@ Building Next-Gen Financial and Personal Wellness Products</h4>
 </p>
 <br/>
 
- I have been a global market professional working between technology, operations, and business. One may refer my roles as that of a Produdct Manager to a Product Strategist to a Product Leaders. Beyond being a corporate 'Intraprenuer',  I'm most passionate about personal finance products (www.myfinscore.com) 📲. I believe in continued eductaion and evolution with ongoing learning (www.myfinscore.graphy.com/) 👷‍♀️. I have created food and e-commcerce business out of passion and family engagements (www.tasteindies.com) 🧰. Of late I am much driven towards holistic wellness (physical and mental) 📖. 
+ I have been a global market professional (17+ yrs) working between Technology, Operations, and Business. One may refer my roles as that of a Produdct Manager to a Product Strategist to that of a Product Leader. Beyond being a corporate 'Intraprenuer',  I'm most passionate about personal finance products (www.myfinscore.com) 📲. I believe in continued eductaion and evolution with ongoing learning (www.myfinscore.graphy.com/) 👷‍♀️. I have created food and e-commcerce business out of passion and family engagements (www.tasteindies.com) 🧰. Of late I am much driven towards holistic wellness (physical and mental) 📖. 
 
 *** I love to bring out efficiencies in people and systems ***
 
