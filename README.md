@@ -8,7 +8,7 @@
     ·
     <a href="https://linkedin.com/in/rakesh-shejwalkar">LinkedIn</a>
     ·
-    <a href="https://twitter.com/rakesh-shejwalkar">X</a>
+    <a href="https://x.com/shejuu">X</a>
 </p>
 <p align="center">
   <h4 align="center">Driven by Curiosity | 
@@ -67,7 +67,7 @@ Building Next-Gen Financial and Personal Wellness Products</h4>
 ### Let's connect
 
 
-Feel free to reach out to me on [X](https://twitter.com/rakeshshejwalkar) or [LinkedIn](https://www.linkedin.com/in/rakesh-shejwalkar). I'm always open to collaborations and new opportunities.
+Feel free to reach out to me on [X](https://x.com/shejuu) or [LinkedIn](https://www.linkedin.com/in/rakesh-shejwalkar). I'm always open to collaborations and new opportunities.
 
 <!-- [!["Follow me on Twitter"](https://img.shields.io/twitter/follow/rakeshshejwalkar?label=Follow%20me)](https://twitter.com/rakeshshejwalkar) -->
 <!-- [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/rakesh-shejwalkar)  -->
