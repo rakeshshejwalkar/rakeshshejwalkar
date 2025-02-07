@@ -34,11 +34,12 @@ Building Next-Gen Financial and Personal Wellness Products</h4>
 <!-- - 🤔 I’m looking for help with **UI/UX of [Personal Finance App](https://myfinscore.com**. -->
 
 ### Projects
-#### Flutter & Dart 
-[**Starbook**](https://github.com/rakeshshejwalkar/star_book) <br />A digital diary and mood tracking app that helps you in keeping track of your mood and productivity throughout the month/year.
+#### Personal Finance Template  Page (no Code)  
+[**MyFinScore**](https://myfinscore.com) <br />A dynamic scoreacrd for evaluating health of personal finance. It's like your *blood-report* evaluating your health status. 
+This page currently is a template product demo page
 <br />
 
-[**QuranTalk**](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
+[**MyFinScore** WebApp](https://github.com/qurantalk) <br />An emotional well being and mental health app. The app helps people to navigate their emotions in the light of the Quran.
 <br />
 
 #### Swift & iOS
